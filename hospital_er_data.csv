@@ -1,0 +1,121 @@
+Visit_ID,Patient_ID,Hospital_Name,Department_Type,Consultation_Fee,Additional_Charges,Total_Bill,Wait_Time_Min,Treatment_Time_Min,Total_Visit_Time,Patient_Rating,Visit_Status
+ER1001,PAT330,Sunrise Medical Center,General_Medicine,349,98,447,16,24,40,5.0,Completed
+ER1002,PAT134,CityCare Hospital,Dermatology,301,59,360,13,24,37,5.0,Completed
+ER1003,PAT497,GreenValley Medical,General_Medicine,466,50,516,18,27,45,5.0,Completed
+ER1004,PAT330,Riverside Clinic Hospital,Dermatology,293,50,343,15,22,37,5.0,Completed
+ER1005,PAT383,Sunrise Medical Center,Neurology,603,159,762,24,32,56,4.3,Referred
+ER1006,PAT227,Sunrise Medical Center,Cardiology,710,126,836,21,38,59,4.3,Completed
+ER1007,PAT220,Metro Health Institute,Orthopedics,484,63,547,21,25,46,5.0,Completed
+ER1008,PAT251,GreenValley Medical,Neurology,797,103,900,21,25,46,5.0,Completed
+ER1009,PAT151,Metro Health Institute,Cardiology,946,63,1009,20,33,53,4.4,Completed
+ER1010,PAT153,GreenValley Medical,Gastroenterology,627,118,745,20,30,50,4.4,Completed
+ER1011,PAT259,LifeLine Hospital,Neurology,933,75,1008,20,41,61,3.9,Completed
+ER1012,PAT297,LifeLine Hospital,Pediatrics,512,50,562,16,21,37,5.0,Completed
+ER1013,PAT448,St. Mary General,Gastroenterology,888,131,1019,22,31,53,4.6,Completed
+ER1014,PAT227,GreenValley Medical,General_Medicine,374,53,427,16,32,48,4.2,Referred
+ER1015,PAT159,CityCare Hospital,Orthopedics,602,89,691,12,36,48,4.7,Referred
+ER1016,PAT251,LifeLine Hospital,Gastroenterology,573,122,695,29,37,66,4.4,Completed
+ER1017,PAT198,CityCare Hospital,ENT,614,79,693,9,27,36,4.6,Completed
+ER1018,PAT483,Unity Health Center,Cardiology,1084,162,1246,32,38,70,4.1,Completed
+ER1019,PAT474,LifeLine Hospital,Cardiology,1100,131,1231,34,47,81,4.3,Completed
+ER1020,PAT416,Unity Health Center,Cardiology,966,91,1057,29,41,70,4.1,Completed
+ER1021,PAT379,Riverside Clinic Hospital,Orthopedics,694,93,787,15,21,36,4.9,Completed
+ER1022,PAT380,Sunrise Medical Center,ENT,530,72,602,19,21,40,5.0,Completed
+ER1023,PAT441,GreenValley Medical,Dermatology,363,50,413,16,25,41,5.0,Completed
+ER1024,PAT269,GreenValley Medical,Pediatrics,487,50,537,12,19,31,5.0,Completed
+ER1025,PAT135,Riverside Clinic Hospital,Neurology,737,117,854,15,47,62,3.5,Completed
+ER1026,PAT289,Riverside Clinic Hospital,General_Medicine,583,75,658,18,30,48,4.1,Completed
+ER1027,PAT363,Riverside Clinic Hospital,Dermatology,438,51,489,11,13,24,5.0,Completed
+ER1028,PAT469,Metro Health Institute,Neurology,882,69,951,13,30,43,4.8,Completed
+ER1029,PAT417,GreenValley Medical,General_Medicine,633,55,688,8,22,30,5.0,Completed
+ER1030,PAT291,GreenValley Medical,Orthopedics,706,148,854,18,32,50,4.3,Completed
+ER1031,PAT185,CityCare Hospital,Cardiology,833,129,962,25,37,62,4.0,Completed
+ER1032,PAT456,GreenValley Medical,Pediatrics,490,54,544,19,44,63,4.0,Completed
+ER1033,PAT115,Unity Health Center,Pediatrics,435,80,515,19,31,50,4.3,Referred
+ER1034,PAT200,Metro Health Institute,Cardiology,984,163,1147,26,38,64,4.2,Completed
+ER1035,PAT189,LifeLine Hospital,Cardiology,849,182,1031,29,38,67,4.3,Completed
+ER1036,PAT376,Riverside Clinic Hospital,Pediatrics,432,50,482,12,28,40,4.9,Admitted
+ER1037,PAT135,Sunrise Medical Center,Pediatrics,446,50,496,17,31,48,4.7,Completed
+ER1038,PAT454,CityCare Hospital,ENT,367,83,450,5,8,13,5.0,Completed
+ER1039,PAT118,CityCare Hospital,Pediatrics,379,81,460,16,26,42,4.4,Completed
+ER1040,PAT168,St. Mary General,Orthopedics,252,131,383,33,34,67,4.3,Admitted
+ER1041,PAT285,GreenValley Medical,Orthopedics,677,149,826,26,37,63,4.2,Completed
+ER1042,PAT267,Sunrise Medical Center,Orthopedics,646,124,770,19,32,51,4.2,Completed
+ER1043,PAT235,Unity Health Center,ENT,484,64,548,6,29,35,4.7,Completed
+ER1044,PAT266,St. Mary General,General_Medicine,640,52,692,10,15,25,5.0,Completed
+ER1045,PAT225,Sunrise Medical Center,Neurology,945,154,1099,28,44,72,3.6,Completed
+ER1046,PAT468,CityCare Hospital,ENT,523,61,584,19,27,46,4.9,Admitted
+ER1047,PAT328,Metro Health Institute,ENT,499,70,569,30,32,62,4.3,Completed
+ER1048,PAT473,St. Mary General,Neurology,1094,118,1212,30,31,61,4.6,Completed
+ER1049,PAT189,Unity Health Center,General_Medicine,569,50,619,6,26,32,5.0,Completed
+ER1050,PAT145,St. Mary General,Dermatology,422,67,489,22,28,50,4.6,Referred
+ER1051,PAT464,Riverside Clinic Hospital,Orthopedics,631,86,717,22,26,48,4.8,Referred
+ER1052,PAT197,CityCare Hospital,Gastroenterology,669,50,719,18,32,50,4.5,Completed
+ER1053,PAT264,Sunrise Medical Center,Cardiology,873,172,1045,20,38,58,4.2,Completed
+ER1054,PAT468,Unity Health Center,Neurology,895,60,955,32,42,74,3.7,Completed
+ER1055,PAT217,St. Mary General,Neurology,994,125,1119,37,52,89,3.3,Completed
+ER1056,PAT402,GreenValley Medical,Orthopedics,751,116,867,29,29,58,4.7,Completed
+ER1057,PAT351,Sunrise Medical Center,Dermatology,428,50,478,6,8,14,5.0,Completed
+ER1058,PAT434,Metro Health Institute,Gastroenterology,767,109,876,10,36,46,4.5,Completed
+ER1059,PAT429,CityCare Hospital,Cardiology,901,63,964,26,43,69,4.2,Completed
+ER1060,PAT470,GreenValley Medical,Gastroenterology,503,64,567,24,39,63,4.0,Completed
+ER1061,PAT192,Unity Health Center,Gastroenterology,625,85,710,17,29,46,4.3,Completed
+ER1062,PAT177,Sunrise Medical Center,Gastroenterology,656,98,754,22,37,59,4.5,Completed
+ER1063,PAT449,St. Mary General,Gastroenterology,784,80,864,17,36,53,4.2,Completed
+ER1064,PAT127,GreenValley Medical,Dermatology,280,86,366,15,24,39,4.7,Referred
+ER1065,PAT462,GreenValley Medical,General_Medicine,378,50,428,19,25,44,4.8,Referred
+ER1066,PAT185,Sunrise Medical Center,Cardiology,729,68,797,28,40,68,3.5,Completed
+ER1067,PAT332,Riverside Clinic Hospital,ENT,673,54,727,19,36,55,4.7,Completed
+ER1068,PAT200,LifeLine Hospital,General_Medicine,651,77,728,23,29,52,4.2,Completed
+ER1069,PAT476,CityCare Hospital,Gastroenterology,654,50,704,26,36,62,4.7,Referred
+ER1070,PAT293,GreenValley Medical,Orthopedics,631,50,681,36,34,70,4.3,Admitted
+ER1071,PAT423,St. Mary General,Pediatrics,457,50,507,27,29,56,4.5,Completed
+ER1072,PAT455,Riverside Clinic Hospital,ENT,471,54,525,17,21,38,4.9,Completed
+ER1073,PAT271,Sunrise Medical Center,Pediatrics,484,50,534,21,19,40,5.0,Completed
+ER1074,PAT193,GreenValley Medical,ENT,579,72,651,17,29,46,5.0,Referred
+ER1075,PAT427,St. Mary General,Dermatology,321,64,385,12,19,31,5.0,Completed
+ER1076,PAT231,CityCare Hospital,Pediatrics,486,55,541,21,24,45,5.0,Completed
+ER1077,PAT278,Riverside Clinic Hospital,Pediatrics,487,50,537,6,21,27,5.0,Completed
+ER1078,PAT203,Unity Health Center,Neurology,941,86,1027,26,40,66,4.2,Completed
+ER1079,PAT114,GreenValley Medical,Cardiology,1058,250,1308,28,43,71,3.8,Completed
+ER1080,PAT388,LifeLine Hospital,Pediatrics,347,75,422,10,32,42,4.6,Completed
+ER1081,PAT496,GreenValley Medical,Orthopedics,550,50,600,21,47,68,3.5,Completed
+ER1082,PAT272,Sunrise Medical Center,ENT,706,69,775,16,36,52,4.4,Completed
+ER1083,PAT247,St. Mary General,General_Medicine,470,79,549,15,18,33,5.0,Referred
+ER1084,PAT203,LifeLine Hospital,Dermatology,262,50,312,11,24,35,5.0,Completed
+ER1085,PAT423,Riverside Clinic Hospital,ENT,477,79,556,18,19,37,4.7,Completed
+ER1086,PAT395,CityCare Hospital,Orthopedics,857,93,950,25,48,73,3.8,Completed
+ER1087,PAT408,CityCare Hospital,Neurology,910,97,1007,19,38,57,4.5,Referred
+ER1088,PAT490,Sunrise Medical Center,Cardiology,907,182,1089,26,38,64,4.2,Referred
+ER1089,PAT281,Unity Health Center,ENT,361,75,436,12,30,42,4.5,Completed
+ER1090,PAT436,Metro Health Institute,Orthopedics,564,168,732,11,30,41,4.9,Completed
+ER1091,PAT426,CityCare Hospital,Gastroenterology,573,50,623,30,34,64,4.2,Completed
+ER1092,PAT385,Unity Health Center,Cardiology,586,108,694,27,40,67,4.4,Completed
+ER1093,PAT212,Sunrise Medical Center,Cardiology,1222,141,1363,25,36,61,4.3,Completed
+ER1094,PAT465,Sunrise Medical Center,Gastroenterology,657,89,746,21,36,57,4.1,Completed
+ER1095,PAT420,CityCare Hospital,Dermatology,314,50,364,14,20,34,5.0,Completed
+ER1096,PAT390,Unity Health Center,Orthopedics,518,96,614,21,22,43,4.7,Completed
+ER1097,PAT429,GreenValley Medical,ENT,517,79,596,25,34,59,4.4,Completed
+ER1098,PAT485,St. Mary General,ENT,521,50,571,20,19,39,5.0,Completed
+ER1099,PAT325,Riverside Clinic Hospital,Gastroenterology,705,98,803,18,35,53,4.3,Referred
+ER1100,PAT227,Unity Health Center,Orthopedics,767,84,851,20,34,54,3.9,Completed
+ER1101,PAT458,CityCare Hospital,General_Medicine,494,67,561,18,29,47,4.5,Completed
+ER1102,PAT245,Unity Health Center,ENT,395,73,468,11,26,37,4.4,Completed
+ER1103,PAT477,Metro Health Institute,Neurology,857,163,1020,34,47,81,3.2,Completed
+ER1104,PAT163,Sunrise Medical Center,Dermatology,277,63,340,9,21,30,4.9,Completed
+ER1105,PAT248,St. Mary General,Dermatology,300,50,350,8,26,34,4.6,Completed
+ER1106,PAT345,LifeLine Hospital,Gastroenterology,1002,72,1074,26,31,57,4.5,Completed
+ER1107,PAT464,St. Mary General,Dermatology,434,50,484,13,32,45,4.4,Completed
+ER1108,PAT230,Sunrise Medical Center,General_Medicine,636,87,723,23,33,56,4.0,Completed
+ER1109,PAT143,St. Mary General,Neurology,809,148,957,26,31,57,4.5,Referred
+ER1110,PAT314,Riverside Clinic Hospital,Pediatrics,455,78,533,18,24,42,4.4,Completed
+ER1111,PAT464,Sunrise Medical Center,Neurology,940,128,1068,27,38,65,4.4,Referred
+ER1112,PAT202,CityCare Hospital,Dermatology,354,50,404,22,18,40,5.0,Referred
+ER1113,PAT270,Unity Health Center,General_Medicine,300,50,350,26,32,58,4.9,Completed
+ER1114,PAT260,Unity Health Center,General_Medicine,521,96,617,16,20,36,4.4,Admitted
+ER1115,PAT350,GreenValley Medical,Dermatology,331,50,381,29,22,51,4.7,Completed
+ER1116,PAT458,Metro Health Institute,Neurology,595,87,682,29,38,67,3.9,Completed
+ER1117,PAT423,Sunrise Medical Center,Pediatrics,267,50,317,9,26,35,4.8,Referred
+ER1118,PAT401,Unity Health Center,General_Medicine,408,127,535,14,33,47,4.9,Completed
+ER1119,PAT429,St. Mary General,Gastroenterology,616,81,697,25,31,56,4.3,Admitted
+ER1120,PAT276,CityCare Hospital,Pediatrics,397,53,450,8,27,35,5.0,Completed
